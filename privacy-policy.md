@@ -1,6 +1,6 @@
 # Outlineify Privacy Policy
 
-Last updated: October 4, 2026
+Last updated: October 6, 2026
 
 This policy explains what information Outlineify collects, why, who it is shared with, how long it is kept and how you can delete it. Outlineify is an iPhone and iPad app that turns a photo into a printable color-by-number page.
 
@@ -14,15 +14,15 @@ Outlineify is for adults aged 18 or over, such as parents and guardians. It is n
 
 ## What we collect and why
 
-| Information                                                           | Why we use it                                                                      |
-| --------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| An anonymous user identifier, created when you first open the app     | To keep your account, drawings and subscription together without asking for a form |
-| Your Apple identity, only if you choose to link Sign in with Apple    | To let you restore your account on another device                                  |
-| Subscription status from the App Store, received through RevenueCat   | To know whether your subscription is active and to apply the weekly limit          |
-| The photos you choose to convert                                      | To create your coloring pages                                                      |
-| Your conversions and finished pages                                   | To show your drawings in the app and let you print or download them again          |
-| A notification token for your device, only if you allow notifications | To tell you when your page is ready                                                |
-| Crash reports that do not contain personal data                       | To find and fix errors in the app                                                  |
+| Information                                                                                                          | Why we use it                                                                      |
+| -------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| An anonymous user identifier, created when you first open the app                                                    | To keep your account, drawings and subscription together without asking for a form |
+| Your Apple identity, only if you choose to link Sign in with Apple                                                   | To let you restore your account on another device                                  |
+| Subscription status from the App Store, received through RevenueCat                                                  | To know whether your subscription is active and to apply the weekly limit          |
+| The photos you choose to convert                                                                                     | To create your coloring pages                                                      |
+| Your conversions and finished pages                                                                                  | To show your drawings in the app and let you print or download them again          |
+| A notification token for your device, only if you allow notifications                                                | To tell you when your page is ready                                                |
+| Crash and performance reports that include only your anonymous user identifier (no photos, names or contact details) | To find and fix errors and slow screens in the app                                 |
 
 We do not collect your name, email address, contacts or location. We do not use your photos to train AI models, and we do not sell your information.
 
@@ -44,7 +44,7 @@ We do not collect your name, email address, contacts or location. We do not use 
 - **Finished pages:** kept until you delete the drawing or your account.
 - **Account data** (anonymous identifier, optional Apple identity, subscription status, notification token and your conversions): kept until you delete your account.
 - **Pages saved on your device:** the app keeps downloaded pages on your device until you delete the drawing, delete your account or remove the app.
-- **Crash reports:** kept by Sentry for a limited period under its standard retention settings.
+- **Crash and performance reports:** kept by Sentry for a limited period under its standard retention settings.
 
 ## Who we share information with
 
@@ -59,7 +59,7 @@ We share information only with service providers that run Outlineify for us:
 | RevenueCat                                              | Manages subscription status                                                                             | United States                                                    |
 | Expo                                                    | Delivers the "your page is ready" notification, using your notification token and the notification text | United States                                                    |
 | Apple                                                   | Processes payments, delivers notifications and, if you use it, Sign in with Apple                       | Worldwide                                                        |
-| Sentry                                                  | Receives crash reports without personal data                                                            | United States                                                    |
+| Sentry                                                  | Receives crash and performance reports that include only your anonymous user identifier                 | United States                                                    |
 
 Some of these providers are outside the European Economic Area and Türkiye. Where information is transferred internationally, we rely on the safeguards these providers offer, such as the European Commission's Standard Contractual Clauses.
 
