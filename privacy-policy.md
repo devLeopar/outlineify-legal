@@ -1,6 +1,6 @@
 # Outlineify Privacy Policy
 
-Last updated: October 6, 2026
+Last updated: October 7, 2026
 
 This policy explains what information Outlineify collects, why, who it is shared with, how long it is kept and how you can delete it. Outlineify is an iPhone and iPad app that turns a photo into a printable color-by-number page.
 
@@ -43,6 +43,7 @@ We do not collect your name, email address, contacts or location. We do not use 
 - **Uploaded photos:** deleted when the conversion finishes, fails or is cancelled, and in any case within one day.
 - **Finished pages:** kept until you delete the drawing or your account.
 - **Account data** (anonymous identifier, optional Apple identity, subscription status, notification token and your conversions): kept until you delete your account.
+- **Weekly limit record:** to keep the weekly fair-use limit fair, we keep a coded, one-way reference to your subscription together with that week's page count, even after you delete your account. It cannot be used to identify you, and we erase it automatically about three weeks after that week ends.
 - **Pages saved on your device:** the app keeps downloaded pages on your device until you delete the drawing, delete your account or remove the app.
 - **Crash and performance reports:** kept by Sentry for a limited period under its standard retention settings.
 
@@ -73,7 +74,7 @@ Outlineify does not track you across apps or websites, shows no ads and uses no 
 
 - **Delete a drawing:** delete it in the app. Its finished page is removed from our storage.
 - **Pages on your device:** pages the app keeps on your device are removed when you delete the drawing or your account, or when you remove the app.
-- **Delete your account:** use Delete account in the app's settings. This removes your files and data from our service, revokes Sign in with Apple if you linked it, and deletes your customer record at RevenueCat.
+- **Delete your account:** use Delete account in the app's settings. This removes your files and data from our service, revokes Sign in with Apple if you linked it, and deletes your customer record at RevenueCat. Only the weekly limit record described above is kept, until it is erased.
 - Deleting your account does **not** cancel an App Store subscription. Cancel it in your Apple ID settings (Settings → your name → Subscriptions) to stop future charges.
 
 If you cannot use the app, email us at [agensgratu@gmail.com](mailto:agensgratu@gmail.com) and we will help you.
