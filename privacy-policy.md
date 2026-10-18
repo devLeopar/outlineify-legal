@@ -2,7 +2,7 @@
 
 Last updated: October 18, 2026
 
-This policy explains what information Outlineify collects, why, who it is shared with, how long it is kept and how you can delete it. Outlineify is an iPhone and iPad app that turns a photo into a printable color-by-number page.
+This policy explains what information Outlineify collects through the app and its website, getoutlineify.app, why, who it is shared with, how long it is kept and how you can delete it. Outlineify is an iPhone and iPad app that turns a photo into a printable color-by-number page.
 
 ## Who we are
 
@@ -24,8 +24,9 @@ Outlineify is for adults aged 18 or over, such as parents and guardians. It is n
 | A notification token for your device, only if you allow notifications                                                | To tell you when your page is ready                                                |
 | Crash and performance reports that include only your anonymous user identifier (no photos, names or contact details) | To find and fix errors and slow screens in the app                                 |
 | App usage events, such as the screens you open and the steps you take, with your anonymous user identifier           | To understand how the app is used and improve it                                   |
+| Website visits: the page you open, the site or campaign link that sent you, your browser, device type and country    | To learn which pages and links bring visitors to the website and to the App Store  |
 
-We do not collect your name, email address, contacts or location. We do not use your photos to train AI models, and we do not sell your information.
+We do not collect your name, email address, contacts or precise location. We do not use your photos to train AI models, and we do not sell your information.
 
 ## How your photos are handled
 
@@ -48,22 +49,23 @@ We do not collect your name, email address, contacts or location. We do not use 
 - **Pages saved on your device:** the app keeps downloaded pages on your device until you delete the drawing, delete your account or remove the app.
 - **Crash and performance reports:** kept by Sentry for a limited period under its standard retention settings.
 - **App usage events:** kept by PostHog for a limited period under its standard retention settings. They are linked only to your anonymous user identifier, so they stay after you delete your account but no longer belong to any account; email us if you want them deleted.
+- **Website visit events:** kept by PostHog for a limited period under its standard retention settings. They are not linked to you, to an account or to the app.
 
 ## Who we share information with
 
 We share information only with service providers that run Outlineify for us:
 
-| Provider                                                | What it does                                                                                            | Location                                                         |
-| ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
-| Amazon Web Services                                     | Stores uploaded photos and runs the conversion                                                          | European Union (Ireland)                                         |
-| Supabase                                                | Hosts our database and account sign-in                                                                  | European Union (Ireland)                                         |
-| fal.ai, OpenAI and Meta                                 | Process photos with AI models to create pages                                                           | United States                                                    |
-| OpenRouter and Anthropic (Claude Haiku), through fal.ai | List the things in a photo and suggest colors for its page                                              | United States, and other regions where OpenRouter runs the model |
-| RevenueCat                                              | Manages subscription status                                                                             | United States                                                    |
-| Expo                                                    | Delivers the "your page is ready" notification, using your notification token and the notification text | United States                                                    |
-| Apple                                                   | Processes payments, delivers notifications and, if you use it, Sign in with Apple                       | Worldwide                                                        |
-| Sentry                                                  | Receives crash and performance reports that include only your anonymous user identifier                 | United States                                                    |
-| PostHog                                                 | Receives app usage events for product analytics, with your anonymous user identifier                    | European Union (Germany)                                         |
+| Provider                                                | What it does                                                                                               | Location                                                         |
+| ------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| Amazon Web Services                                     | Stores uploaded photos and runs the conversion                                                             | European Union (Ireland)                                         |
+| Supabase                                                | Hosts our database and account sign-in                                                                     | European Union (Ireland)                                         |
+| fal.ai, OpenAI and Meta                                 | Process photos with AI models to create pages                                                              | United States                                                    |
+| OpenRouter and Anthropic (Claude Haiku), through fal.ai | List the things in a photo and suggest colors for its page                                                 | United States, and other regions where OpenRouter runs the model |
+| RevenueCat                                              | Manages subscription status                                                                                | United States                                                    |
+| Expo                                                    | Delivers the "your page is ready" notification, using your notification token and the notification text    | United States                                                    |
+| Apple                                                   | Processes payments, delivers notifications and, if you use it, Sign in with Apple                          | Worldwide                                                        |
+| Sentry                                                  | Receives crash and performance reports that include only your anonymous user identifier                    | United States                                                    |
+| PostHog                                                 | Receives app usage events with your anonymous user identifier, and anonymous website visits, for analytics | European Union (Germany)                                         |
 
 Some of these providers are outside the European Economic Area and Türkiye. Where information is transferred internationally, we rely on the safeguards these providers offer, such as the European Commission's Standard Contractual Clauses.
 
@@ -74,6 +76,8 @@ We may also disclose information if the law requires it.
 Outlineify uses PostHog, a product analytics service by PostHog Inc. that stores our data in the European Union, to understand how the app is used and where it can be improved. The app sends usage events, such as the screens you open and steps like choosing a photo, choosing a detail level, viewing the plans, printing a page or completing a purchase (with the plan chosen). Each event carries your anonymous user identifier, the app version, the app language, your device's language and region setting, time zone, device type and screen size, and whether you have a subscription.
 
 The app does not send your photos or pages, anything you type, your name, your email address or your Apple identity. PostHog is set not to look up your location from your IP address and not to store it.
+
+On getoutlineify.app, PostHog counts page visits and clicks on the App Store links. Each visit event carries the page, the site that sent you, the campaign source of the link you followed (such as Pinterest or YouTube), your browser, device type and screen size, and the country your visit comes from. PostHog works out the country from your IP address without storing the address. The website uses no cookies and no browser storage, and it remembers the campaign source only within your browser tab while you move between its pages. Website visits are not linked to you or to the app. When you tap an App Store link, the link tells Apple the campaign source, so App Store Connect can count downloads per source without identifying you.
 
 Outlineify shows no ads, does not track you across apps or websites owned by other companies, and does not share analytics data with advertisers or data brokers. For this reason the app does not ask for App Tracking Transparency permission.
 
