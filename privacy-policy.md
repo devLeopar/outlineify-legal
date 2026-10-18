@@ -1,6 +1,6 @@
 # Outlineify Privacy Policy
 
-Last updated: October 7, 2026
+Last updated: October 18, 2026
 
 This policy explains what information Outlineify collects, why, who it is shared with, how long it is kept and how you can delete it. Outlineify is an iPhone and iPad app that turns a photo into a printable color-by-number page.
 
@@ -23,6 +23,7 @@ Outlineify is for adults aged 18 or over, such as parents and guardians. It is n
 | Your conversions and finished pages                                                                                  | To show your drawings in the app and let you print or download them again          |
 | A notification token for your device, only if you allow notifications                                                | To tell you when your page is ready                                                |
 | Crash and performance reports that include only your anonymous user identifier (no photos, names or contact details) | To find and fix errors and slow screens in the app                                 |
+| App usage events, such as the screens you open and the steps you take, with your anonymous user identifier           | To understand how the app is used and improve it                                   |
 
 We do not collect your name, email address, contacts or location. We do not use your photos to train AI models, and we do not sell your information.
 
@@ -46,6 +47,7 @@ We do not collect your name, email address, contacts or location. We do not use 
 - **Weekly limit record:** to keep the weekly fair-use limit fair, we keep a coded, one-way reference to your subscription together with that week's page count, even after you delete your account. It cannot be used to identify you, and we erase it automatically about three weeks after that week ends.
 - **Pages saved on your device:** the app keeps downloaded pages on your device until you delete the drawing, delete your account or remove the app.
 - **Crash and performance reports:** kept by Sentry for a limited period under its standard retention settings.
+- **App usage events:** kept by PostHog for a limited period under its standard retention settings. They are linked only to your anonymous user identifier, so they stay after you delete your account but no longer belong to any account; email us if you want them deleted.
 
 ## Who we share information with
 
@@ -61,6 +63,7 @@ We share information only with service providers that run Outlineify for us:
 | Expo                                                    | Delivers the "your page is ready" notification, using your notification token and the notification text | United States                                                    |
 | Apple                                                   | Processes payments, delivers notifications and, if you use it, Sign in with Apple                       | Worldwide                                                        |
 | Sentry                                                  | Receives crash and performance reports that include only your anonymous user identifier                 | United States                                                    |
+| PostHog                                                 | Receives app usage events for product analytics, with your anonymous user identifier                    | European Union (Germany)                                         |
 
 Some of these providers are outside the European Economic Area and Türkiye. Where information is transferred internationally, we rely on the safeguards these providers offer, such as the European Commission's Standard Contractual Clauses.
 
@@ -68,7 +71,11 @@ We may also disclose information if the law requires it.
 
 ## Tracking, ads and analytics
 
-Outlineify does not track you across apps or websites, shows no ads and uses no third-party analytics. For this reason the app does not ask for App Tracking Transparency permission.
+Outlineify uses PostHog, a product analytics service by PostHog Inc. that stores our data in the European Union, to understand how the app is used and where it can be improved. The app sends usage events, such as the screens you open and steps like choosing a photo, choosing a detail level, viewing the plans, printing a page or completing a purchase (with the plan chosen). Each event carries your anonymous user identifier, the app version, the app language, your device's language and region setting, time zone, device type and screen size, and whether you have a subscription.
+
+The app does not send your photos or pages, anything you type, your name, your email address or your Apple identity. PostHog is set not to look up your location from your IP address and not to store it.
+
+Outlineify shows no ads, does not track you across apps or websites owned by other companies, and does not share analytics data with advertisers or data brokers. For this reason the app does not ask for App Tracking Transparency permission.
 
 ## Deleting your information
 
@@ -87,7 +94,7 @@ You also have the right to complain to a data protection authority, such as the 
 
 ## Legal basis
 
-Where the GDPR or a similar law applies, we process your information to provide the service you asked for (performance of a contract), to keep the service secure and working (our legitimate interests) and to meet legal obligations.
+Where the GDPR or a similar law applies, we process your information to provide the service you asked for (performance of a contract), to keep the service secure and working and to understand how the app is used so we can improve it (our legitimate interests) and to meet legal obligations.
 
 ## Security
 
