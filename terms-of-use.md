@@ -1,8 +1,8 @@
 # Outlineify Terms of Use
 
-Last updated: October 3, 2026
+Last updated: October 26, 2026
 
-These terms are an agreement between you and İhsan Oktar Kara, an individual developer based in Türkiye ("we", "us"), for the use of the Outlineify app for iPhone and iPad ("Outlineify" or "the service"). By using Outlineify you accept these terms. If you do not accept them, please do not use the app.
+These terms are an agreement between you and İhsan Oktar Kara, an individual developer based in Türkiye ("we", "us"), for the use of the Outlineify app for iPhone, iPad and Android ("Outlineify" or "the service"). By using Outlineify you accept these terms. If you do not accept them, please do not use the app.
 
 ## 1. Who can use Outlineify
 
@@ -14,16 +14,16 @@ Outlineify turns a photo you choose into a printable color-by-number coloring pa
 
 ## 3. Your account
 
-When you first open the app, an anonymous account is created for you. You can link Sign in with Apple to restore your account on another device. If you do not link it and remove the app or lose your device, your account and pages may not be recoverable.
+When you first open the app, an anonymous account is created for you. On iPhone and iPad, you can link Sign in with Apple to restore your account on another device. If you do not link it, or if you use Android, and you remove the app or lose your device, your account and pages may not be recoverable.
 
 ## 4. Subscriptions
 
 - Outlineify requires an active subscription to create pages. There is no free usage and no free trial.
 - Subscriptions are offered weekly and yearly. The price is shown in the app before you buy.
-- Payment is charged to your Apple ID when you confirm the purchase.
-- Subscriptions renew automatically at the end of each period unless you cancel at least 24 hours before the period ends. Your Apple ID is charged for renewal within 24 hours before the period ends.
-- You can manage or cancel your subscription in your Apple ID settings (Settings → your name → Subscriptions). Deleting the app or your Outlineify account does not cancel the subscription.
-- Purchases and refunds are handled by Apple under the App Store's terms. Refund requests go to Apple at [reportaproblem.apple.com](https://reportaproblem.apple.com).
+- Payment is charged to your Apple ID on iPhone and iPad, or to your Google Play account on Android, when you confirm the purchase.
+- Subscriptions renew automatically at the end of each period until you cancel. On iPhone and iPad, cancel at least 24 hours before the period ends; your Apple ID is charged for renewal within 24 hours before the period ends. On Android, cancel before the period ends; Google Play charges the renewal at the start of the next period.
+- You can manage or cancel your subscription in your Apple ID settings on iPhone or iPad (Settings → your name → Subscriptions), or in Google Play on Android (Play Store → your profile picture → Payments & subscriptions → Subscriptions). Deleting the app or your Outlineify account does not cancel the subscription.
+- Purchases and refunds are handled by Apple under the App Store's terms, or by Google under the Google Play terms. Refund requests go to Apple at [reportaproblem.apple.com](https://reportaproblem.apple.com), or to Google Play under its [refund policy](https://support.google.com/googleplay/answer/2479637).
 
 ## 5. Weekly fair-use limit
 
@@ -50,11 +50,11 @@ Outlineify is provided "as is". To the extent the law allows, we are not liable 
 
 ## 10. Deleting your account
 
-You can delete your account at any time with Delete account in the app's settings. This removes your files and data as described in our Privacy Policy. Remember to cancel your subscription in your Apple ID settings as well.
+You can delete your account at any time with Delete account in the app's settings. This removes your files and data as described in our Privacy Policy. Remember to cancel your subscription in your Apple ID settings or in Google Play as well.
 
 ## 11. Apple
 
-These terms are between you and us, not Apple. Apple is not responsible for Outlineify or its content and has no obligation to provide maintenance or support for it. If the app fails to conform to any applicable warranty, you may notify Apple, and Apple will refund the purchase price, if any; Apple has no other warranty obligation for the app. Apple is not responsible for any claims relating to the app, including product liability, legal or regulatory claims, or intellectual property claims. Apple and its subsidiaries are third-party beneficiaries of these terms and may enforce them against you. You confirm that you are not located in a country subject to a U.S. Government embargo and are not on any U.S. Government list of prohibited or restricted parties.
+This section applies if you got Outlineify from the App Store. These terms are between you and us, not Apple. Apple is not responsible for Outlineify or its content and has no obligation to provide maintenance or support for it. If the app fails to conform to any applicable warranty, you may notify Apple, and Apple will refund the purchase price, if any; Apple has no other warranty obligation for the app. Apple is not responsible for any claims relating to the app, including product liability, legal or regulatory claims, or intellectual property claims. Apple and its subsidiaries are third-party beneficiaries of these terms and may enforce them against you. You confirm that you are not located in a country subject to a U.S. Government embargo and are not on any U.S. Government list of prohibited or restricted parties.
 
 ## 12. Governing law
 
