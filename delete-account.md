@@ -1,6 +1,6 @@
 # Delete Your Outlineify Account and Data
 
-Last updated: October 26, 2026
+Last updated: October 31, 2026
 
 You can delete your Outlineify account and its data yourself, at any time, from inside the app. It works the same way on iPhone, iPad and Android.
 
@@ -25,6 +25,7 @@ The app then removes your account and starts again as a new, empty account.
 ## What is kept
 
 - **Weekly limit record.** To keep the weekly fair-use limit fair, we keep a coded, one-way reference to your subscription together with that week's page count. It cannot be used to identify you, and we erase it automatically about three weeks after that week ends.
+- **Free page record.** So that the free first page cannot be claimed again by reinstalling the app or starting a new account, we keep a salted one-way code made from your device identifier the fact that its free page was used and whether it was blocked for abuse, no longer linked to any account. The code cannot be turned back into the device identifier.
 - **App usage events.** PostHog keeps them for a limited period under its standard retention settings. They are linked only to your anonymous identifier, so after you delete your account they no longer belong to any account. Email us if you want them deleted.
 - **Pages you saved or shared yourself.** Images saved to your photo library or gallery, and PDFs you shared or saved elsewhere, stay where you put them.
 

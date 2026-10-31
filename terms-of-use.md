@@ -1,6 +1,6 @@
 # Outlineify Terms of Use
 
-Last updated: October 26, 2026
+Last updated: October 31, 2026
 
 These terms are an agreement between you and İhsan Oktar Kara, an individual developer based in Türkiye ("we", "us"), for the use of the Outlineify app for iPhone, iPad and Android ("Outlineify" or "the service"). By using Outlineify you accept these terms. If you do not accept them, please do not use the app.
 
@@ -18,7 +18,7 @@ When you first open the app, an anonymous account is created for you. On iPhone 
 
 ## 4. Subscriptions
 
-- Outlineify requires an active subscription to create pages. There is no free usage and no free trial.
+- Each new person can create one page for free. After that, an active subscription is required to create pages. The free page is limited to one per person and per device, and we may withhold it where we see it being abused. There is no free trial.
 - Subscriptions are offered weekly and yearly. The price is shown in the app before you buy.
 - Payment is charged to your Apple ID on iPhone and iPad, or to your Google Play account on Android, when you confirm the purchase.
 - Subscriptions renew automatically at the end of each period until you cancel. On iPhone and iPad, cancel at least 24 hours before the period ends; your Apple ID is charged for renewal within 24 hours before the period ends. On Android, cancel before the period ends; Google Play charges the renewal at the start of the next period.
